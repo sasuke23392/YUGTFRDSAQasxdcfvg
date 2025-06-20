@@ -1,32 +1,7 @@
 {
-  "aquaculture:recipes/food/sushi": {
-    "criteria": {
-      "has_alt_items": "2025-06-20 21:32:35 +0000",
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
-    },
-    "done": false
-  },
-  "aquaculture:recipes/decorations/spruce_fish_mount": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
   "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_chestplate": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
     },
     "done": true
   },
@@ -48,15 +23,27 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
-    },
-    "done": false
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -66,63 +53,25 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/light_hook": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
-      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
   "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_shovel": "2025-06-20 21:32:35 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/oak_fish_mount": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+  "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/redstone_hook": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2025-06-20 21:35:21 +0000",
-      "minecraft:river": "2025-06-20 21:32:35 +0000"
-    },
-    "done": false
-  },
-  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
-    },
-    "done": false
-  },
-  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
     },
@@ -140,9 +89,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
+      "has_lots_of_items": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -152,21 +101,21 @@
     },
     "done": true
   },
-  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_dagger": {
     "criteria": {
-      "has_netherite_pickaxe": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/new_player": {
+  "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
     "criteria": {
-      "requirement": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "upgradednetherite:recipes/netherite_horse_armor": {
+  "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
-      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+      "has_item": "2025-06-20 21:38:37 +0000"
     },
     "done": true
   },
@@ -176,27 +125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
-      "has_netherite_leggings": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/red_mushroom_from_fish": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/diamond_fishing_rod": {
-    "criteria": {
-      "has_vanilla_rod": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -206,9 +143,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/iron_fishing_rod": {
+  "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
-      "has_vanilla_rod": "2025-06-20 21:32:35 +0000"
+      "has_wood": "2025-06-20 21:40:41 +0000"
     },
     "done": true
   },
@@ -218,27 +155,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_wood_log": "2025-06-20 21:40:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
-    },
-    "done": true
-  },
-  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/decorations/acacia_fish_mount": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -260,53 +185,33 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
     "criteria": {
-      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
-      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/heavy_hook": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/iron_hook": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_scythe": {
     "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
-    },
-    "done": true
-  },
-  "upgradednetherite:recipes/upgraded_netherite_ingot": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
-      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -316,27 +221,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/double_hook": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/decorations/jungle_fish_mount": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_sword": "2025-06-20 21:32:35 +0000"
     },
     "done": true
   },
@@ -352,9 +245,9 @@
     },
     "done": true
   },
-  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_netherite_boots": "2025-06-20 21:32:35 +0000"
+      "has_logs": "2025-06-20 21:40:41 +0000"
     },
     "done": true
   },
@@ -364,27 +257,21 @@
     },
     "done": true
   },
-  "toolleveling:recipes/tool_leveling_table": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_longbow": {
     "criteria": {
-      "has_enchanting_table": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/decorations/birch_fish_mount": {
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_items": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
-  "create:root": {
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
-      "0": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2025-06-20 21:32:35 +0000"
+      "has_diamonds": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -412,9 +299,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/bobber": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -422,6 +309,457 @@
     "criteria": {
       "has_fishing_rod": "2025-06-20 21:32:35 +0000",
       "has_fillet_knife": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2025-06-20 21:32:35 +0000",
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
+      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-06-20 21:39:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-06-20 21:35:21 +0000",
+      "minecraft:birch_forest": "2025-06-20 21:42:34 +0000",
+      "minecraft:river": "2025-06-20 21:32:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-20 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-20 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-20 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
+      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-20 21:32:35 +0000",
+      "has_fillet_knife": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-20 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-20 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -454,23 +792,11 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/worm_farm": {
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_heavy_crossbow": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
-  },
-  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
-    "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-20 21:32:35 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2975
 }
