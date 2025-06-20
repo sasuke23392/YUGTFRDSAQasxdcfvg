@@ -1,4 +1,16 @@
 {
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-06-20 22:00:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
+  },
   "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_chestplate": "2025-06-20 21:32:35 +0000"
@@ -23,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -59,9 +83,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-20 22:45:00 +0000"
     },
     "done": true
   },
@@ -74,6 +110,12 @@
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -95,11 +137,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
     "criteria": {
       "has_netherite_axe": "2025-06-20 21:32:35 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_dagger": {
     "criteria": {
@@ -149,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-20 21:32:35 +0000"
@@ -161,9 +227,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_diamond": "2025-06-20 21:38:14 +0000"
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -176,6 +242,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-20 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -312,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_greatsword": {
     "criteria": {
       "has_diamond": "2025-06-20 21:38:14 +0000"
@@ -373,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
@@ -391,15 +475,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "has_diamond": "2025-06-20 21:38:14 +0000"
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -416,6 +506,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "sword": "2025-06-20 21:39:13 +0000"
@@ -431,6 +527,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -515,15 +617,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
-    },
-    "done": true
-  },
   "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_leggings": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
     },
     "done": true
   },
@@ -545,15 +647,33 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/spartanshields/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -563,15 +683,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-20 21:35:47 +0000"
-    },
-    "done": true
-  },
   "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
     "criteria": {
       "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-20 21:35:47 +0000"
     },
     "done": true
   },
@@ -594,7 +714,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
     },
@@ -606,11 +744,11 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/iron_hook": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_items": "2025-06-20 21:32:35 +0000"
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
@@ -635,6 +773,12 @@
       "has_netherite_ingot": "2025-06-20 21:32:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
@@ -667,15 +811,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_log": "2025-06-20 21:40:41 +0000"
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-20 21:40:41 +0000"
     },
     "done": true
   },
@@ -688,6 +838,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-06-20 21:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-20 22:01:41 +0000"
     },
     "done": true
   },
@@ -739,15 +895,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-06-20 21:38:14 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-06-20 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
   },
@@ -797,6 +953,12 @@
       "has_diamond": "2025-06-20 21:38:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-20 22:47:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 2975
 }
